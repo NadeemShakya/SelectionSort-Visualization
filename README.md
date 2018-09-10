@@ -17,6 +17,6 @@ A classical sorting algorithm - SELECTION SORT Visualization using JavaScript.
   This sorting algorith has the time complexity of O(n * n). <br>
   It is an inplace sorting algorithm. <br>
   <i> Get to know more about Selection Sort from <br>
-  <a href = 'https://www.geeksforgeeks.org/selection-sort/'> Geeks for Geeks - Selection Sort </a>
+  <a href = 'https://www.geeksforgeeks.org/selection-sort/'> Geeks for Geeks - Selection Sort </a> <br>
   <a href = 'https://en.wikipedia.org/wiki/Selection_sort'> Wikipedia - Selection Sort </a>
   
